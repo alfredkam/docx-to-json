@@ -1,0 +1,10 @@
+{
+  "name": "node-converter",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "node-zip": "~1.0.1",
+    "xml2json": "~0.3.2"
+  },
+  "devDependencies": {}
+}
