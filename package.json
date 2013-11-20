@@ -1,10 +1,9 @@
 {
-  "name": "node-converter",
+  "name": "docx-to-json",
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "node-zip": "~1.0.1",
-    "xml2json": "~0.3.2"
+    "adm-zip": "~0.4.3"
   },
   "devDependencies": {}
 }
